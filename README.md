@@ -18,6 +18,6 @@ Using CPI categories such as Gas, Electricity, Food, Housing, Education, and Med
 - Medical care categories exhibited steady upward pressure, reflecting structural costs rather than shocks.
 
 ## Repository Contents
-- `notebooks/` → Full Colab/Jupyter analysis
+- `CPI_Japan_Data_Analysis_Project.ipynb` → Full Colab/Jupyter analysis
 - `slides/` → Final presentation (20 slides)
 - `requirements.txt` → Dependencies for reproducibility
