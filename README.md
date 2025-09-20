@@ -19,5 +19,5 @@ Using CPI categories such as Gas, Electricity, Food, Housing, Education, and Med
 
 ## Repository Contents
 - `CPI_Japan_Data_Analysis_Project.ipynb` → Full Colab/Jupyter analysis
-- `slides/` → Final presentation (20 slides)
+- `CPI_Japan_Data_Analysis_Project_Slides.pdf` → Final presentation (22 slides)
 - `requirements.txt` → Dependencies for reproducibility
